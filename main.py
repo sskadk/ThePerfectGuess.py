@@ -9,6 +9,7 @@ When the player guesses the correct number, the program displays the number of g
 
 (Note: Random Module is used in this Program)
 '''
+
 import random
 n = random.randint(1, 100) 
 a = -1
