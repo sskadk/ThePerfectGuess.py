@@ -1,6 +1,5 @@
 '''
 This is a very Simple Micro Project(The Perfect Guess) which generates a random number and asks the user to guess it.
-
 If the player's guess is higher than the actual number, program displays: "Lower Number Please".
 
 Similarly, if the player's guess is low, the program displays: "Higher Number Please".
