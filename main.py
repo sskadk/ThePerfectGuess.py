@@ -4,7 +4,7 @@ This is a very Simple Micro Project(The Perfect Guess) which generates a random 
     Similarly, if the player's guess is low, the program displays: "Higher Number Please".
     When the player guesses the correct number, the program displays the number of guesses used to arrive at the number.
     (Note: Random Module is used in this Program)
-    '''
+'''
 
 
 import random    # -->    Importing Random Module
